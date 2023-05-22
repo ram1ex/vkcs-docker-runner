@@ -33,4 +33,4 @@ jobs:
         with:
           context: .
           push: false
-          tags: ghcr.io/vasiliy-t/terraform-vkcs-docker:latest
+          tags: ghcr.io/ram1ex/terraform-vkcs-docker:latest
