@@ -1,2 +1,1 @@
-# terraform-vkcs-docker
-XYZZ
+# VKCS Docker Runner
