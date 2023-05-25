@@ -1,1 +1,1 @@
-RUN terraform init
+RUN top
