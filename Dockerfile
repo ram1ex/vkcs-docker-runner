@@ -1,3 +1,3 @@
 FROM busybox
 RUN echo "Lets wait for some time..."
-RUN sleep 600
+RUN sleep 60
